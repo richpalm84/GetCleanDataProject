@@ -1,1 +1,2 @@
 # GetCleanDataProject
+In this analysis I have taken the data at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and created a tidy data set containing only measurements related to mean and the standard deviation (79 total).  The dataset has been grouped by subject (30 subjects today) and the mean of each variable shown. This is what is contained in the tidy dataset.    
