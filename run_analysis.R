@@ -1,5 +1,3 @@
-#set my working directory to where the files are located
-setwd("~/Richy's Docs/Data Science Course/UCI HAR Dataset/test")
 #read in my files
 subject_test <- read.table("subject_test.txt")
 y_test <- read.table("y_test.txt")
